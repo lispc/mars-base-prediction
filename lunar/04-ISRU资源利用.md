@@ -91,7 +91,7 @@
 
 | 任务 | 时点 | 与本推演的接口 |
 |---|---|---|
-| **嫦娥七号**（轨道器+着陆器+巡视器+**飞跃器入 PSR 原位测水**+月震仪） | 2026-08 发射、2026 底着陆南极（[Planetary Society](https://www.planetary.org/space-missions/change-7)、[Leonard David 2026-07](https://www.leonarddavid.com/chinas-next-moon-landing-mission-change-7-targeted-for-lunar-south-pole-in-hunt-for-water-ice/)） | 首次 PSR 内水冰直接测量；结果 2027 年并入储量模型 |
+| **嫦娥七号**（轨道器+着陆器+巡视器+**飞跃器入 PSR 原位测水**+月震仪） | 原定 2026-08-24 发射，因不满足发射条件推迟至 2027 窗口（2027-11 着陆高光照期；[任务概况：Planetary Society](https://www.planetary.org/space-missions/change-7)） | 首次 PSR 内水冰直接测量；结果 2027–28 年并入储量模型 |
 | **VIPER 复活**（NASA 2024-07 取消、2025-09 以 Blue Origin Blue Moon MK1 复活，目标 2027 底发射、100 天挥发分成图，[SpaceNews 2025-09](https://spacenews.com/nasa-revives-viper-lunar-rover-mission-with-blue-origin-lander-award/)、[NASA FY2027 预算](https://www.nasa.gov/wp-content/uploads/2026/04/fiscal-year-2027-full-budget-request.pdf)） | 2027–28 | 百米级水冰分布图 → 直接决定 2029 预部署 I 的钻探井位 |
 | Artemis IV 载人着陆（2028 初） | 2028 | 宇航员手取样 PSR 边缘，校准遥感 |
 | 嫦娥八号 ISRU 试验（~2028–29） | 2028–29 | 月壤烧结/制氧在月验证，数据共享渠道见 `lunar/14` |
@@ -407,7 +407,7 @@ MRE 工业化"，总额相当。经济账：ISRU 使 2045 年补给流量压到 
 
 **开放问题**：
 1. PSR 挥发分的**垂向分布**（表层富集 vs 深部富集？）决定 TVEx 钻深与罩式加热深度——
-   2029 侦察钻须打到 3–5 m 剖面；嫦娥七号飞跃器 2026 底数据是第一个约束。
+   2029 侦察钻须打到 3–5 m 剖面；嫦娥七号飞跃器 2027–28 数据是第一个约束。
 2. 含冰月壤的**热导率与蒸气输运参数**在 40–150 K 低温真空下缺实验数据，
    直接影响加热功率与捕获率设计——地面 PSR 模拟舱联试（2027–2029）必须覆盖。
 3. 分馏冷阱的**分馏效率与 NH₃/CO₂ 共凝行为**（共晶/包合物）无公开月级数据，
